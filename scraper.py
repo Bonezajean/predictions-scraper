@@ -295,4 +295,4 @@ df.to_excel(writer, sheet_name='Predicts')
 writer.sheets['Predicts'].set_column('B:B', 50)
 writer.sheets['Predicts'].set_column('E:E', 15)
 
-writer.save()
+writer._save()
