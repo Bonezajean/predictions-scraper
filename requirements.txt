@@ -1,4 +1,4 @@
 requests
 beautifulsoup4
 pandas
-cloudscraper
+git+https://github.com/alwaysmaysix/cloudscraper.git
